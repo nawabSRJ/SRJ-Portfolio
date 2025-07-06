@@ -4,7 +4,11 @@ import sendEmail from './services/mailer.js';
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+    origin:['https://srj-tech.vercel.app/'],
+    methods:['GET','POST'],
+    credentials: true
+}));
 
 app.post('/api/send-email', async (req,res) => {
     const {email, message} = req.body;
