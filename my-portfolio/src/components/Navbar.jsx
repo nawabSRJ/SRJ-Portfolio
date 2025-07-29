@@ -43,7 +43,7 @@ const Navbar = () => {
     { icon: <FaCode />, label: "Projects", href: "/projects" },
     { icon: <FaUser />, label: "About", href: "/about-me" },
     { icon: <FaGithub />, label: "GitHub", href: "https://github.com/nawabSRJ" },
-    { icon: <FaXTwitter />, label: "Twitter", href: "https://x.com/nawabSRJ" },
+    // { icon: <FaXTwitter />, label: "Twitter", href: "https://x.com/nawabSRJ" },
     { icon: <FaLinkedin />, label: "LinkedIn", href: "https://www.linkedin.com/in/srajan-saxena-a6509a248/" },
   ];
 
