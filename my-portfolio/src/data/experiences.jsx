@@ -9,7 +9,7 @@ const experiences = [
   },
   {
     role: "Data Analyst & Software Developer",
-    company: "Stealth Startup",
+    company: "Fairphile Innovation Labs",
     icon: <FaUserTie className="text-white dark:text-black" />,
     duration: "Mar 2025 - May 2025",
     description: "Led end-to-end Data work including collection, cleaning, analysis. Designed & developed software application using C#,Unity Engine and C# Winforms. Worked under the guidance of startup advisers from IIT KGP and MAANG engineers.",

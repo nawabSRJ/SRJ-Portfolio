@@ -16,10 +16,13 @@ const AboutMe = () => {
             exit={{ y: 100, opacity: 0 }}
             transition={{ duration: 0.7, ease: "easeInOut" }} 
             className="info-container w-[60%] h-fit px-4 py-2 text-left">
-            <h1 className="text-center text-black dark:text-white font-extrabold text-3xl my-5">
+            <h1 className="text-center text-black dark:text-white font-extrabold text-3xl mt-12 mb-4">
               My Journey
             </h1>
             <ul className="space-y-7">
+              <li>
+                📌As of 2026, i have appeared in CUET-PG Computer Science paper on 11th March 2026 and am currently waiting for results.
+              </li>
               <li>
                 📌In 2025, I graduated from my college with a degree in Computer
                 Science (BCA)

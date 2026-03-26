@@ -22,7 +22,7 @@ const Hero = () => {
         </h1>
 
         <p className="text-gray-600 dark:text-gray-400 mt-4 max-w-2xl leading-6 text-base md:text-lg">
-          20, I love to build products, learn new tech, and try to make my code
+          21, I love to build products, learn new tech, and try to make my code
           provide value to others. I enjoy talking about startups, cricket,
           cinema and stories. I truly believe we all are debuggers here, debugging our own
           issues. If you're looking for a dedicated computer science
